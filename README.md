@@ -26,11 +26,6 @@
     <strong>and probably even more...</strong>
     <!--Consider adding html,css,svelte to tech stack-->
 </div>
-<div align="center">
-    <h2>📊 My GitHub Stats:</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=XodTech&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false" alt="Github Stats"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XodTech&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
-</div>
 
 
 
