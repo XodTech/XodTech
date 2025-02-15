@@ -1,8 +1,7 @@
 <!--Typing text-->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&weight=800&size=25&duration=4000&pause=700&color=F7ED27&center=true&vCenter=true&width=435
-            &lines=Hello+World+%F0%9F%91%8B;I'm+XodTech!;Linux+Enthusiast,;Programmer,;And+just+cool+guy!"
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Lexend&weight=800&size=25&duration=4000&pause=700&color=F7ED27&center=true&vCenter=true&width=435&lines=Hello+World%F0%9F%91%8B;I'm+XodTech!;Linux+Enthusiast,;Programmer,;And+just+cool+guy!"
             alt="Typing SVG" />
     </a>
 </div>
@@ -30,7 +29,7 @@
 <div align="center">
     <h2>📊 My GitHub Stats:</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=XodTech&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false" alt="Github Stats"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XodTech&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most        used languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XodTech&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
 </div>
 
 
