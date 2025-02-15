@@ -1,18 +1,37 @@
-# Hi there 👊
+<!--Typing text-->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?   		font=Lexend&weight=800&size=25&duration=4000&pause=700&color=F7ED27&center=true&vCenter=true&width=435
+            &lines=Hello+World+%F0%9F%91%8B;I'm+XodTech!;Linux+Enthusiast,;Programmer,;And+just+cool+guy! "
+            alt="Typing SVG" />
+    </a>
+</div>
 
-# 💫 About Me:
-### 🦾 I'm Linux user,and I'm proud of that!
+<!--About me-->
+<div align="center">
+    <h2>About me:</h2>
+    
+<i> I'm a programmer and Linux enthusiast with a passion for chess. While I code and sometimes also in my free time I like listening to classical music, as it provides a pleasant background and helps me stay focused. When I'm not coding, you can find me trying to outmaneuver my opponents on the chessboard or doing some other stuff. I love the strategic thinking and problem-solving that chess requires, and I'm trying to learn and improve. I'm excited to be part of the open-source community where I can share ideas and learn from others.
+</i>
 
-# 💻 Tech Stack:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja2](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XodTech&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XodTech&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-<!-- <### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)> -->
+<!--TODO: Contact -->
 
-<!-- ![](https://visitcount.itsvg.in/api?id=jyjhhghth tht h&icon=0&color=2) -->
----
-Thanks <a href = 'https://gprm.itsvg.in'>GPRM</a> and <a href = 'https://shields.io/badges'>Shields.io</a> for help in creating my profile
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Tech stack-->
+<div align=center>
+    <h3>Tools i use for my work:</h3>
+    <img src="https://skillicons.dev/icons?i=arch,neovim,github"/>
+    <h3>My planned future tech stack:</h3>
+    <img src="https://skillicons.dev/icons?i=python,rust,go,linux,bash,docker,kubernetes,nginx,terraform,ansible,jenkins,git"/><br>
+    <strong>and probably even more...</strong>
+    <!--Consider adding html,css,svelte to tech stack-->
+</div>
+<div align="center">
+    <h2>📊 My GitHub Stats:</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=XodTech&theme=slateorange&hide_bor         der=false&include_all_commits=false&count_private=false" alt="Github Stats"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XodTech&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most        used languages" />
+</div>
+
+
+
